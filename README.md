@@ -15,6 +15,7 @@ I am proud to have earned the Entry Certificate in Business Analysis (ECBA) offe
 ---
 
 ## Beta Gamma Sigma Certification
+Beta Gamma Sigma.pdf
 
 ### Description:
 Attaining membership in Beta Gamma Sigma, the international business honor society, is a recognition of academic excellence and leadership in business studies. Membership in this prestigious society represents a commitment to high educational standards and ethical business practices.
