@@ -1,6 +1,7 @@
 # Certifications
 
 ## ECBA - IIBA Certification
+https://badges.iiba.org/f7ba777c-3c2b-421e-b1dc-1a4b88b26c3b
 
 ### Description:
 I am proud to have earned the Entry Certificate in Business Analysis (ECBA) offered by the International Institute of Business Analysis (IIBA). This certification validates my foundational knowledge and understanding of business analysis principles and techniques. Through rigorous training and examination, I have demonstrated proficiency in various areas essential to effective business analysis.
